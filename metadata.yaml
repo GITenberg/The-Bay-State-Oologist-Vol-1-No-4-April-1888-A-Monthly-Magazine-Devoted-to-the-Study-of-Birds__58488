@@ -1,5 +1,8 @@
 _repo: The-Bay-State-Oologist-Vol-1-No-4-April-1888-A-Monthly-Magazine-Devoted-to-the-Study-of-Birds__58488
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58488-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '49987'
     url: http://www.gutenberg.org/2009/agents/49987
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58488#The-Bay-State-Oologist-Vol-1-No-4-April-1888-A-Monthly-Magazine-Devoted-to-the-Study-of-Birds_
 gutenberg_issued: '2018-12-17'
 gutenberg_type: Text
 identifiers:
